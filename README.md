@@ -4,5 +4,7 @@ The Caesar cipher is a type of substitution cipher in which each letter in the p
 ## Example:
 Here is a quick example of the encryption and decryption steps involved with the caesar cipher. The text we will encrypt is 'Programming is fun', with a shift (key) of 1.
 
-> plaintext:  Programming is fun
-> ciphertext: Qsphsbnnjoh jt gvo
+```
+plaintext:  Programming is fun
+ciphertext: Qsphsbnnjoh jt gvo
+```
