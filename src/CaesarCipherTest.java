@@ -36,6 +36,5 @@ public class CaesarCipherTest {
         final int key = 5;
         caesarCipher.setKey(key);
         assertEquals(caesarCipher.getKey(), key);
-        caesarCipher.setKey(KEY);
     }
 }
